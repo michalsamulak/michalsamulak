@@ -15,6 +15,8 @@ I'm a Software Engineer with a passion for problem-solving and a keen interest i
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase) &ensp; ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) &ensp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?sstyle=plastic&logo=mysql&logoColor=white) &ensp; ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=plastic&logo=shopify&logoColor=white)
 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&for-the-badge&logo=Jira&logoColor=white) &ensp; ![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?&styleplastic&=for-the-badge&logo=clickup&logoColor=white)
+
 ## 📫 How to reach me
 You can reach me at &nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:msamulak18@gmail.com) &nbsp;or on &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michal-samulak)
  
